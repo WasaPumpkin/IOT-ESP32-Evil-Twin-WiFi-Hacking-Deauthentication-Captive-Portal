@@ -548,7 +548,7 @@ I will apply these lessons to:
 
 ## Wokwi Project Link
 
-**Live Simulation:** [INSERT YOUR WOKWI URL HERE]
+**Live Simulation:** Wokwi Simulation:(https://wokwi.com/projects/305569599398609473)
 
 ## Screenshots
 
