@@ -584,7 +584,7 @@ Dear Professor Reed Sanchez,
 Please find my ESP32 Evil Twin assignment submission:
 
 GitHub Repository: [YOUR FORKED REPO URL]
-Wokwi Simulation: [YOUR WOKWI PROJECT URL]
+Wokwi Simulation: https://wokwi.com/projects/305569599398609473
 
 The repository includes:
 ✓ Updated README.md with all required sections
